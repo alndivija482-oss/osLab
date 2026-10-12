@@ -25,7 +25,7 @@ This C program demonstrates how to execute Linux shell commands within a C progr
 | `cat` | Display file contents | `cat notes.txt` |
 
 ## SOURCE CODE :
-**File :** [exp1.c](https://github.com/Balakrishna-0907/osLab/blob/02308af10f8158db6537d1865fd25b700ba3394c/ex01/exp1.c)
+**File :** [exp1.c]https://github.com/alndivija482-oss/osLab/blob/5fd27704a08a965decd843caa4e038b72ab0edcb/OSALAB/Ex01/exp1.c
 
 ## COMPILATION :
 
